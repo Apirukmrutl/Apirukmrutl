@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Aphirak Tatong (Apirukmrutl)
-### 🎓 Computer Engineering Student @MRUTL | 🛠️ IT & Hardware Specialist
+### 🎓 Computer Engineering Student @RMUTL | 🛠️ IT & Hardware Specialist
 
 
 > "I analyze circuits, optimize software, and deploy IT solutions. From board-level troubleshooting to custom OS optimization—if it runs on electricity, I can handle it."
